@@ -1,0 +1,99 @@
+section{
+    font: 'Montserrat';
+    padding: 6rem 0;
+    background: var(--dblue);
+    color: var(--white);
+    height: 91vh;
+}
+h1,h2,h3,h4,h5{
+    line-height: 1.2;
+}
+.cs{
+    background: var(--dblue);
+}
+.cs h1{
+    line-height: 1;
+    margin-bottom: 3rem;
+}
+.c_container{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+.c_left{
+    margin-right: 4rem;
+}
+.c_left p{
+    margin: 1rem 0 3rem;
+    font-size: large;
+}
+.c_right{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.2rem
+}
+.c{
+    background: var(--logoblue);
+    padding: 2rem;
+    border-radius: 2rem;
+    transition: all 400ms ease;
+}
+.c:hover{
+    background: #199bd2;
+    box-shadow: 0 3rem 3rem rgba(0,0,0,0.6);
+    cursor: pointer; 
+    z-index: 1;
+}
+.c_icon{
+    background: var(--ired);
+    padding: 0.7rem;
+    border-radius: 0.9rem;
+}
+.c_icon1{
+    background: var(--ired);
+}
+.c_icon2{
+    background: var(--igreen);
+}
+.c_icon3{
+    background: var(--ipurple);
+}
+.c_icon4{
+    background: var(--iyellow);
+}
+.c_icon5{
+    background: var(--ipink);
+}
+.c_icon6{
+    background: var(--iorange);
+}
+.c h5{
+    margin: 2rem 0 1rem;
+    color: var(--white);
+
+}
+.c p{
+    font-size: 0.85rem;
+    color: var(--white);
+
+}
+.imp{
+    color: var(--white);
+}
+a{
+    color: var(--white);
+}
+.btn{
+    display: inline-block;
+    background: var(--white);
+    color: var(--dblue);
+    padding: 1rem 2rem;
+    border: 1px solid transparent;
+    font-weight: 500;
+    transition: all 400ms ease;
+
+}
+.btn:hover{
+    background: transparent;
+    color: var(--white);
+    border-color: var(--white);
+}

@@ -1,0 +1,238 @@
+.body{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100vh;
+    background: var(--dblue);
+    font-family: 'Poppins', sans-serif;
+}
+
+.body1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    overflow: hidden;
+    height: 100vh;
+    background: var(--dblue);
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper{
+    width: 540px;
+    height: 700px;
+    background: var(--white);
+    padding: 20px 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 60px rgba(1, 0, 5, 0.15);
+
+}
+.wrapper1{
+    width: 540px;
+    height: 500px;
+    background: var(--white);
+    padding: 20px 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 60px rgba(1, 0, 5, 0.15);
+
+}
+
+.wrapper h2{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wrapper1 h2{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wrapper .div-bar{
+    display: block;
+    width: 120px;
+    background: var(--dblue);
+    height: 6px;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+
+.wrapper1 .div-bar{
+    display: block;
+    width: 120px;
+    background: var(--dblue);
+    height: 6px;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+
+
+
+.wrapper .calculator{
+    position: relative;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+
+.wrapper1 .calculator{
+    position: relative;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+
+.calculator .calculator-input{
+    position: relative;
+    width: 50%;
+    justify-content: space-around;
+    padding: 5px 10px;
+    display: block;
+}
+.calculator .calculator-input1{
+    position: relative;
+    width: 50%;
+    justify-content: space-around;
+    padding: 5px 10px;
+    display: grid;
+    grid-template-columns: 67% 33%;
+    gap: 5px;
+
+}
+
+
+
+
+
+.calculator .calculator-input input{
+    width: 100%;
+    height: 40px;
+    padding: 20px 14px;
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    border: 1px solid #7d7d7d;
+    border-radius: 4px;
+}
+
+.calculator .calculator-input input:focus{
+    outline: none;
+    border: 1px solid var(--dblue);
+}
+
+
+.calculator .calculator-input label{
+    color: var(--dblue);
+    font-size: 16px;
+    padding: 2px 4px;
+    font-weight: 500;
+}
+
+.calculator .calculator-input button {
+    width: 100%;
+    padding: 14px 16px;
+    margin-top: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: "Poppins",sans-serif;
+    background: var(--dblue);
+    border: 0;
+    color: var(--white);
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.calculator .calculator-input1 button {
+    width: 100%;
+    padding: 14px 16px;
+    margin-top: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: "Poppins",sans-serif;
+    background: var(--dblue);
+    border: 0;
+    display: grid;
+    color: var(--white);
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+
+ /*chrome, safari, edge, opera*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+.wrapper .calculator-result{
+    position: relative;
+    display: block;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.wrapper1 .calculator-result{
+    position: relative;
+    display: block;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.wrapper .calculator-result ul{
+    width: 100%;
+    background: #96125110;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.wrapper1 .calculator-result ul{
+    width: 100%;
+    background: #96125110;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.wrapper .calculator-result li{
+    list-style: none;
+    line-height: 28px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.wrapper1 .calculator-result li{
+    list-style: none;
+    line-height: 28px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+
+.calculator-result .loan_emi{
+    font-weight: 700;
+    font-size: 22px;
+    color: var(--dblue);
+}
+.calculator-result .loan_principle,
+.calculator-result .loan_interest_rate,
+.calculator-result .loan_total{
+    color: #333332;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.calculator-result{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}

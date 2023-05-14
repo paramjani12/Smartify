@@ -1,0 +1,856 @@
+{
+  "professional": [
+    {
+      "taskname": "Software discussion",
+      "client": "Appicoder",
+      "department": "",
+      "deadline": "2023-05-03",
+      "priority": "H",
+      "incharge": "Paresh",
+      "note": "Confirm about the accordion update ",
+      "id": 1
+    },
+    {
+      "taskname": "HR discussion",
+      "client": "Appicoder",
+      "deadline": "2023-05-12",
+      "priority": "H",
+      "incharge": "Self",
+      "note": "Hire 2 Devops",
+      "id": 3
+    },
+    {
+      "taskname": "Complete Phase1",
+      "client": "Appicoder",
+      "deadline": "2023-05-18",
+      "priority": "L",
+      "incharge": "Shailesh",
+      "note": "Scrum update daily",
+      "id": 4
+    },
+    {
+      "taskname": "Allocate resources",
+      "client": "Russell",
+      "deadline": "2023-05-25",
+      "priority": "H",
+      "incharge": "Paresh",
+      "note": "",
+      "id": 5
+    },
+    {
+      "taskname": "Software Specification",
+      "client": "Russell",
+      "deadline": "2023-05-21",
+      "priority": "H",
+      "incharge": "Paresh",
+      "note": "Arrange meeting",
+      "id": 6
+    },
+    {
+      "taskname": "Design Completion",
+      "client": "Turcotte and Sons",
+      "deadline": "2023-05-03",
+      "priority": "L",
+      "incharge": "Self",
+      "note": "",
+      "id": 7
+    },
+    {
+      "taskname": "Meeting",
+      "client": "Turcotte and Sons",
+      "deadline": "2023-05-04",
+      "priority": "H",
+      "incharge": "Bharti",
+      "note": "",
+      "id": 8
+    },
+    {
+      "taskname": "Testing plan",
+      "client": "Russell",
+      "deadline": "2023-05-11",
+      "priority": "L",
+      "incharge": "Raj",
+      "note": "Discuss with Mark",
+      "id": 9
+    },
+    {
+      "taskname": "Customer review meeting",
+      "client": "Alien Apps",
+      "deadline": "2023-05-19",
+      "priority": "L",
+      "incharge": "Paresh",
+      "note": "",
+      "id": 10
+    },
+    {
+      "taskname": "Bug fixing",
+      "client": "Alien Apps",
+      "deadline": "2023-05-20",
+      "priority": "H",
+      "incharge": "Arti",
+      "note": "Complete before meeting",
+      "id": 11
+    },
+    {
+      "taskname": "UI approval",
+      "client": "Russell",
+      "deadline": "2023-05-21",
+      "priority": "L",
+      "incharge": "Paresh, Raj",
+      "note": "",
+      "id": 12
+    },
+    {
+      "taskname": "Standing meeting",
+      "client": "Venugopal Pvt Ltd",
+      "deadline": "2023-05-18",
+      "priority": "L",
+      "incharge": "Self",
+      "note": "",
+      "id": 13
+    },
+    {
+      "taskname": "Phase 1",
+      "client": "Appicoder",
+      "deadline": "2023-06-07",
+      "priority": "L",
+      "incharge": "Paresh, Raj, Bharti",
+      "note": "",
+      "id": 14
+    },
+    {
+      "taskname": "Prototype implementation",
+      "client": "B Plus Data",
+      "deadline": "2023-05-19",
+      "priority": "H",
+      "incharge": "Raj",
+      "note": "Push on gitlab",
+      "id": 15
+    },
+    {
+      "taskname": "Hire interns",
+      "client": "B Plus Data",
+      "deadline": "2023-06-09",
+      "priority": "H",
+      "incharge": "Self",
+      "note": "Take 1 frontend and 2 backend",
+      "id": 16
+    }
+  ],
+  "personal": [
+    {
+      "taskname": "Recharge fastag",
+      "deadline": "2023-05-05",
+      "priority": "H",
+      "note": "Ahmedabad trip",
+      "id": 1
+    },
+    {
+      "taskname": "Order cake for dad",
+      "deadline": "2023-05-02",
+      "priority": "H",
+      "note": "Blueberry cheesecake",
+      "id": 2
+    },
+    {
+      "taskname": "Recharge Nani mobile",
+      "deadline": "2023-05-12",
+      "priority": "L",
+      "note": "9809345678",
+      "id": 3
+    },
+    {
+      "taskname": "Dmart",
+      "deadline": "2023-05-11",
+      "priority": "L",
+      "note": "",
+      "id": 4
+    },
+    {
+      "taskname": "Give baleno in service",
+      "deadline": "2023-05-13",
+      "priority": "H",
+      "note": "Use Rs. 1000 coupon code",
+      "id": 5
+    },
+    {
+      "taskname": "Take sweet for masa ",
+      "deadline": "2023-05-19",
+      "priority": "H",
+      "note": "kalakand",
+      "id": 6
+    },
+    {
+      "taskname": "Clean solar panel",
+      "deadline": "2023-05-27",
+      "priority": "H",
+      "note": "Early in morning",
+      "id": 7
+    },
+    {
+      "taskname": "Mama earth coupon",
+      "deadline": "2023-06-15",
+      "priority": "L",
+      "note": "Rs. 500 voucher",
+      "id": 8
+    },
+    {
+      "taskname": "Credit card payment",
+      "deadline": "2023-05-11",
+      "priority": "H",
+      "note": "",
+      "id": 9
+    }
+  ],
+  "expense": [
+    {
+      "particular": "Zomato",
+      "amount": "350",
+      "date": "2023-04-08",
+      "category": "Grocery",
+      "method": "Credit Card",
+      "note": "",
+      "id": 1
+    },
+    {
+      "particular": "Swiggy",
+      "amount": "200",
+      "date": "2023-04-11",
+      "category": "Grocery",
+      "method": "UPI",
+      "note": "",
+      "id": 2
+    },
+    {
+      "particular": "Car Insurance",
+      "amount": "2000",
+      "date": "2023-04-18",
+      "category": "Insurance",
+      "method": "Cash",
+      "note": "Monthly",
+      "id": 3
+    },
+    {
+      "particular": "Dmart",
+      "amount": "2000",
+      "date": "2023-04-21",
+      "category": "Grocery",
+      "method": "Cash",
+      "note": "",
+      "id": 4
+    },
+    {
+      "particular": "Kiryana",
+      "amount": "150",
+      "date": "2023-04-28",
+      "category": "Grocery",
+      "method": "Cash",
+      "note": "",
+      "id": 5
+    },
+    {
+      "particular": "Fastag",
+      "amount": "1000",
+      "date": "2023-04-20",
+      "category": "Vehicle",
+      "method": "UPI",
+      "note": "",
+      "id": 6
+    },
+    {
+      "particular": "Watchman",
+      "amount": "500",
+      "date": "2023-04-21",
+      "category": "Utility",
+      "method": "Cash",
+      "note": "",
+      "id": 7
+    },
+    {
+      "particular": "Electricity",
+      "amount": "2000",
+      "date": "2023-04-22",
+      "category": "Utility",
+      "method": "Credit card",
+      "note": "march-april",
+      "id": 8
+    },
+    {
+      "particular": "Didi",
+      "amount": "1000",
+      "date": "2023-04-04",
+      "category": "Utility",
+      "method": "Cash",
+      "note": "",
+      "id": 9
+    },
+    {
+      "particular": "House rent",
+      "amount": "12000",
+      "date": "2023-04-26",
+      "category": "Rent",
+      "method": "Credit card",
+      "note": "2000 maintenance",
+      "id": 10
+    },
+    {
+      "particular": "Hair cut",
+      "amount": "200",
+      "date": "2023-04-13",
+      "category": "Personal-Care",
+      "method": "UPI",
+      "note": "",
+      "id": 11
+    },
+    {
+      "particular": "Hotstar",
+      "amount": "599",
+      "date": "2023-04-15",
+      "category": "Entertainment",
+      "method": "Credit card",
+      "note": "",
+      "id": 12
+    },
+    {
+      "particular": "Fuel ",
+      "amount": "2000",
+      "date": "2023-04-13",
+      "category": "Vehicle",
+      "method": "UPI",
+      "note": "",
+      "id": 13
+    },
+    {
+      "particular": "Shampoo",
+      "amount": "500",
+      "date": "2023-04-13",
+      "category": "Personal-Care",
+      "method": "Credit card",
+      "note": "",
+      "id": 14
+    },
+    {
+      "particular": "Railway Ticket",
+      "amount": "590",
+      "date": "2023-04-19",
+      "category": "Miscellaneous",
+      "method": "Credit card",
+      "note": "",
+      "id": 15
+    },
+    {
+      "particular": "Mediclaim ",
+      "amount": "5600",
+      "date": "2023-04-14",
+      "category": "Insurance",
+      "method": "Credit card",
+      "note": "Mom-Dad",
+      "id": 16
+    },
+    {
+      "particular": "Party",
+      "amount": "940",
+      "date": "2023-04-20",
+      "category": "Entertainment",
+      "method": "UPI",
+      "note": "Take 470 split from Shyam",
+      "id": 17
+    }
+  ],
+  "income": [
+    {
+      "particular": "Salary",
+      "amount": "40000",
+      "date": "2023-03-23",
+      "category": "Salary",
+      "note": "",
+      "id": 1
+    },
+    {
+      "particular": "Shop",
+      "amount": "10000",
+      "date": "2023-03-16",
+      "category": "Rental-Income",
+      "note": "Sahil Payment",
+      "id": 2
+    },
+    {
+      "particular": "SBI",
+      "amount": "245",
+      "date": "2023-04-18",
+      "category": "Interest",
+      "note": "Monthly",
+      "id": 3
+    },
+    {
+      "particular": "IDBI",
+      "amount": "350",
+      "date": "2023-04-13",
+      "category": "Interest",
+      "note": "",
+      "id": 4
+    },
+    {
+      "particular": "Equity",
+      "amount": "245",
+      "date": "2023-04-21",
+      "category": "Divident",
+      "note": "Unilevel ",
+      "id": 5
+    },
+    {
+      "particular": "Project",
+      "amount": "5000",
+      "date": "2023-04-13",
+      "category": "Miscellaneous",
+      "note": "A-Z Database Pvt Ltd",
+      "id": 6
+    },
+    {
+      "particular": "Canara",
+      "amount": "680",
+      "date": "2023-04-21",
+      "category": "Interest",
+      "note": "",
+      "id": 7
+    }
+  ],
+  "analysis": [
+    {
+      "month": "January",
+      "expense": "23000",
+      "income": "52500",
+      "note": "",
+      "id": 1
+    },
+    {
+      "month": "February",
+      "expense": "30000",
+      "income": "49750",
+      "note": "Car insurance",
+      "id": 2
+    },
+    {
+      "month": "March",
+      "expense": "21900",
+      "income": "44500",
+      "note": "",
+      "id": 3
+    },
+    {
+      "month": "April",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 4
+    },
+    {
+      "month": "May",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 5
+    },
+    {
+      "month": "June",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 6
+    },
+    {
+      "month": "July",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 7
+    },
+    {
+      "month": "August",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 8
+    },
+    {
+      "month": "September",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 9
+    },
+    {
+      "month": "October",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 10
+    },
+    {
+      "month": "November",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 11
+    },
+    {
+      "month": "December",
+      "expense": 0,
+      "income": 0,
+      "note": "",
+      "id": 12
+    }
+  ],
+  "webapp": [
+    {
+      "app": "Realme Phone",
+      "userid": "User12332290RXssTyaa",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 1
+    },
+    {
+      "app": "Insta",
+      "userid": "paramjani",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 2
+    },
+    {
+      "app": "Gmail",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "9867345467 Recovery",
+      "id": 3
+    },
+    {
+      "app": "Telegram",
+      "userid": "paramjani",
+      "email": "",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "9867345467",
+      "id": 4
+    },
+    {
+      "app": "GFG",
+      "userid": "coder_12331",
+      "email": "",
+      "password": "56&*jklljg1",
+      "linked": "Google",
+      "note": "",
+      "id": 5
+    },
+    {
+      "app": "Heroku",
+      "userid": "paramjani34",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "charusat email recovery",
+      "id": 6
+    },
+    {
+      "app": "Bugzilla",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 7
+    },
+    {
+      "app": "Matlab",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 8
+    },
+    {
+      "app": "Cisco packet tracer",
+      "userid": "",
+      "email": "19dcs042@charusat.edu.in",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "gmail backup",
+      "id": 9
+    },
+    {
+      "app": "Spotify",
+      "userid": "",
+      "email": "",
+      "password": "",
+      "linked": "Google",
+      "note": "",
+      "id": 10
+    },
+    {
+      "app": "Microsoft office",
+      "userid": "",
+      "email": "19dcs042@charusat.edu.in",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 11
+    },
+    {
+      "app": "Swayam",
+      "userid": "",
+      "email": "",
+      "password": "",
+      "linked": "Google",
+      "note": "",
+      "id": 12
+    },
+    {
+      "app": "Huawei watch website",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "Required on resetting",
+      "id": 13
+    },
+    {
+      "app": "Oracle",
+      "userid": "",
+      "email": "janipam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 14
+    },
+    {
+      "app": "Salesforce",
+      "userid": "",
+      "email": "19dcs042@charusat.edu.in",
+      "password": "56&*jklljg1",
+      "linked": "workday",
+      "note": "",
+      "id": 15
+    },
+    {
+      "app": "Capgemini",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 16
+    },
+    {
+      "app": "Mastercard",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "workday",
+      "note": "renew 6 month",
+      "id": 17
+    },
+    {
+      "app": "IBM ",
+      "userid": "",
+      "email": "19dcs042@charusat.edu.in",
+      "password": "56&*jklljg1",
+      "linked": "Google",
+      "note": "",
+      "id": 18
+    },
+    {
+      "app": "Western Digital",
+      "userid": "",
+      "email": "19dcs042@charusat.edu.in",
+      "password": "56&*jklljg1",
+      "linked": "SmartRecruiters",
+      "note": "",
+      "id": 19
+    },
+    {
+      "app": "CGI",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 20
+    },
+    {
+      "app": "Deloitte",
+      "userid": "",
+      "email": "janiparam@gmail.com",
+      "password": "56&*jklljg1",
+      "linked": "",
+      "note": "",
+      "id": 21
+    }
+  ],
+  "bank": [
+    {
+      "bank": "Axis",
+      "holder": "Raj Patel",
+      "number": "6798649",
+      "customerid": "213342",
+      "ifsc": "6578967345234561",
+      "note": "Salary",
+      "id": 1
+    },
+    {
+      "bank": "SBI",
+      "holder": "Rajbhai Patel",
+      "number": "4566712",
+      "customerid": "127763",
+      "ifsc": "1256578909451734",
+      "note": "Freelance projects",
+      "id": 2
+    },
+    {
+      "bank": "IDBI",
+      "holder": "RAJ PATEL",
+      "number": "S45G1124",
+      "customerid": "894566",
+      "ifsc": "7463721839746371",
+      "note": "UPI",
+      "id": 3
+    },
+    {
+      "bank": "Canara",
+      "holder": "Raj Patel",
+      "number": "5677GG",
+      "customerid": "453017",
+      "ifsc": "5378912374801624",
+      "note": "",
+      "id": 4
+    },
+    {
+      "bank": "Canara",
+      "holder": "Amit Patel",
+      "number": "345543",
+      "customerid": "678744",
+      "ifsc": "1254673390786752",
+      "note": "Dad",
+      "id": 5
+    },
+    {
+      "bank": "Axis",
+      "holder": "Amit Patel",
+      "number": "546678",
+      "customerid": "873422",
+      "ifsc": "6578220983671524",
+      "note": "Dad Salary",
+      "id": 6
+    },
+    {
+      "bank": "IDBI",
+      "holder": "Ami Patel",
+      "number": "657787",
+      "customerid": "340978",
+      "ifsc": "4517459835014718",
+      "note": "Mom Saving Acc",
+      "id": 7
+    }
+  ],
+  "investment": [
+    {
+      "name": "",
+      "holder": "Raj Shah",
+      "start": "2022-02-20",
+      "maturity": "2027-02-21",
+      "amount": "10000",
+      "renewal": "Monthly",
+      "maturity_amount": "884554",
+      "detail": "PJ - Kotak Bluechip Fund",
+      "id": 1
+    },
+    {
+      "holder": "Shakshi Shah",
+      "detail": "RJ - Quant Flexi Cap Fund",
+      "start": "2017-07-13",
+      "maturity": "2032-07-15",
+      "amount": "5000",
+      "renewal": "Monthly",
+      "maturity_amount": "9977204",
+      "id": 2
+    },
+    {
+      "holder": "Raj Shah",
+      "detail": "PJ - Jivan Akshay",
+      "start": "2010-03-01",
+      "maturity": "2025-06-02",
+      "amount": "100000",
+      "renewal": "Lump-sum",
+      "maturity_amount": "1500000",
+      "id": 3
+    },
+    {
+      "detail": "PJ - Mediclaim",
+      "start": "2023-02-15",
+      "maturity": "2024-02-14",
+      "amount": "20000",
+      "renewal": "Annually",
+      "maturity_amount": "",
+      "id": 4
+    },
+    {
+      "detail": "RJ - Mediclaim",
+      "start": "2022-05-29",
+      "maturity": "2023-05-30",
+      "amount": "10000",
+      "renewal": "Annually",
+      "maturity_amount": "",
+      "id": 5
+    },
+    {
+      "detail": "Mediclaim Floater",
+      "start": "2023-04-14",
+      "maturity": "2024-04-13",
+      "amount": "8600",
+      "renewal": "Annually",
+      "maturity_amount": "",
+      "id": 6
+    },
+    {
+      "detail": "PJ - life insurance",
+      "start": "2021-05-06",
+      "maturity": "",
+      "amount": "16750",
+      "renewal": "Annually",
+      "maturity_amount": "Principle+1CR",
+      "id": 7
+    },
+    {
+      "detail": "DAD - PPF",
+      "start": "2020-11-06",
+      "maturity": "2025-11-05",
+      "amount": "140000",
+      "renewal": "Annually",
+      "maturity_amount": "1080000",
+      "id": 8
+    },
+    {
+      "detail": "MOM - HDFC Top 100",
+      "start": "2022-09-18",
+      "maturity": "2027-09-19",
+      "amount": "8000",
+      "renewal": "Monthly",
+      "maturity_amount": "963918",
+      "id": 9
+    },
+    {
+      "detail": "Home Insurance",
+      "start": "2023-02-09",
+      "maturity": "2024-02-08",
+      "amount": "9800",
+      "renewal": "Annually",
+      "maturity_amount": "",
+      "id": 10
+    }
+  ]
+}

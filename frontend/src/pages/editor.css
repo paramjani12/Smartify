@@ -1,0 +1,32 @@
+.myicon{
+    background: var(--ired);
+    padding: 0.7rem;
+    border-radius: 0.9rem;
+}
+.myicon1{
+    background: var(--ired);
+}
+.myicon2{
+    background: var(--igreen);
+}
+.myicon3{
+    background: var(--ipurple);
+}
+.myicon4{
+    background: var(--iyellow);
+}
+.myicon5{
+    background: var(--ipink);
+}
+.myicon6{
+    background: var(--iorange);
+}
+.myicon7{
+    background: var(--iblue);
+}
+.myhead{
+    box-sizing: border-box;
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 500;
+}

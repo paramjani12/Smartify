@@ -1,0 +1,128 @@
+
+
+section{
+    font: 'Montserrat';
+    padding: 6rem 0;
+    background: var(--dblue);
+    color: var(--white);
+    height: 91vh;
+}
+
+section h2{
+    text-align: center;
+    margin-bottom: 4rem;
+}
+h1,h2,h3,h4,h5{
+    line-height: 1.2;
+}
+h1{
+    font-size: 2.4rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.6rem;
+}
+h4{
+    font-size: 1.3rem;
+}
+.image{
+    margin-top: 4rem;
+    width:100%;
+    height: 23rem;
+    display: block;
+    object-fit: cover;
+}
+.passwordimage{
+    margin-top: 5rem;
+    width:100%;
+    height: 23rem;
+    display: block;
+    object-fit: cover;
+}
+.trackerimage{
+    margin-top: 2rem;
+    width:100%;
+    height: 25rem;
+    /* display: block; */
+    /* object-fit: cover; */
+}
+.container{
+    width: 76%;
+    margin: 0 auto;
+}
+
+/* .about__a{
+    margin-top: 3rem;
+} */
+.about__a-container{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    gap: 5rem;
+}
+.about__a-right > p{
+    margin: 1.6rem 0 2.5rem;
+}
+.a__cards{
+    margin:0 4rem 0 4rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5rem;
+
+}
+.passwordcards{
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
+.a__card{
+    background-color: var(--logoblue);
+    padding: 1.6rem;
+    border-radius: 1rem;
+    text-align: center;
+    transition: all 400ms ease;
+
+}
+.a__card h3{
+    color: var(--white);
+}
+.a__card p{
+    color: var(--white);
+}
+.imp{
+    color: var(--white);
+}
+.a__card:hover{
+    background: #199bd2;
+    box-shadow: 0 3rem 3rem rgba(0,0,0,0.6);
+    cursor: pointer; 
+
+}
+.a__icon{
+    padding: 0.2rem 0.7rem 0.7rem 0.7rem;
+    border-radius: 1rem;
+    display: inline-block;
+    margin-bottom: 2.25rem;
+    font-size: 2rem;
+}
+.a__icon1{
+    background: var(--ired);
+}
+.a__icon2{
+    background: var(--igreen);
+}
+.a__icon3{
+    background: var(--ipurple);
+}
+.a__icon4{
+    background: var(--iyellow);
+}
+.a__icon5{
+    background: var(--ipink);
+}
+.a__card p{
+    margin-top: 1rem;
+}
+

@@ -1,0 +1,25 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Encode Sans Expanded', 'Poppins', 'Montserrat', sans-serif;
+
+
+}
+:root {
+  --logoblue: #1976D2;
+  --white: #F1FAEE; 
+  --dblue: #1D3557;
+  --nblue: #457B9D;
+  --lblue: #A8DADC;
+  --ired: #f75842;
+  --igreen: #00bf8e;
+  --iyellow: #f7c94b;
+  --ipurple: #6e0977;
+  --ipink: #ca1d5f;
+  --iorange: #c05711;
+  --iblue: #11ecc8;
+
+}
+
